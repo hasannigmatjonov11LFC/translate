@@ -15,7 +15,7 @@ from tarjimon import tarjimon
 logging.basicConfig(level=logging.INFO)
 
 
-BOT_TOKEN = "8430335182:AAFpE6xzIWQmCmMxjKr8yK2W2xpcgD5SMfU"
+BOT_TOKEN = "8569944665:AAERxh4_XZvglZhYJwWj5NLtU3cpGYU4TA8"
 PROXY_URL = "http://proxy.server:3128"
 session = AiohttpSession(proxy=PROXY_URL)
 
